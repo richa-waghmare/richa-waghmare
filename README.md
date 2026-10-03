@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Richa Waghmare</h1>
 
 <h3 align="center">
-  AI & Data Science Student • Software Developer • AI/ML Enthusiast
+  AI & Data Science Student • Software Developer 
 </h3>
 
 <p align="center">
