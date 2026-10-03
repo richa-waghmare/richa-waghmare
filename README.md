@@ -249,24 +249,27 @@ As **Technical Head**, I contribute to technical activities, coordination and te
        alt="Hacktoberfest 2026 Attendee" />
 </p>
 
-### 🛡️ HackHazard
+<h3 align="center">🏆 HackHazard 2026</h3>
 
 <p align="center">
   <a href="https://www.namespace.world/credentials/badges/9IjH5KLjoif1">
-    <img src="https://img.shields.io/badge/HackHazard-Badge%201-6A5ACD?style=for-the-badge" />
+    <img src="https://gvwkdvpdmjagdbincqmu.supabase.co/storage/v1/object/public/public-assets/credentials/templates/89f0c589-ef3d-414f-9a36-eda3feaa74c9.png"
+         width="250"
+         alt="HackHazard 2026 Registered" />
   </a>
+
   <a href="https://www.namespace.world/credentials/badges/iJHMZC9pTDhg">
-    <img src="https://img.shields.io/badge/HackHazard-Badge%202-6A5ACD?style=for-the-badge" />
+    <img src="https://gvwkdvpdmjagdbincqmu.supabase.co/storage/v1/object/public/public-assets/credentials/templates/2f3d753c-26ac-41b3-ad6b-ec8227146c18.png"
+         width="250"
+         alt="HackHazard 2026 Submitted" />
   </a>
+
   <a href="https://www.namespace.world/credentials/badges/ncgNQPw1ytiz">
-    <img src="https://img.shields.io/badge/HackHazard-Badge%203-6A5ACD?style=for-the-badge" />
+    <img src="https://gvwkdvpdmjagdbincqmu.supabase.co/storage/v1/object/public/public-assets/credentials/templates/46b6de81-9123-432a-9776-d140e67ca9c7.png"
+         width="250"
+         alt="HackHazard 2026 Top 100" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 ## 📊 GitHub Statistics
 
 <p align="center">
